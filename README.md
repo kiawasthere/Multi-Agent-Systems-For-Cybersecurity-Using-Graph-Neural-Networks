@@ -1,12 +1,9 @@
-# Multi-Agent-Systems
+# Analyzing Social Networks through Graph Neural Networks
 Start August 19th 2024 - Dec 7t
-Intern at Oak Ridge National Laboratory. Project - Develop a Multi-agent System That Collaborates to Detect and Defend Against Cyber Threats
+Intern at Oak Ridge National Laboratory. 
 
 Not sure if I can publish all my work yet but here is my Linkedin!
 https://www.linkedin.com/in/zakiya-pruitt/
-
-
-![Figure_1](https://github.com/user-attachments/assets/2aba4bd7-eb44-4e31-8ab1-ff0dd16e1e5e)
 
 
 
